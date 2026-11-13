@@ -1,6 +1,6 @@
-# 🚀 AI & MLOps Learning Journey
+# 🏛️ AI & MLOps Vault
 
-> A structured, end-to-end repository tracking my daily learning, projects, experiments, and certifications across **Artificial Intelligence**, **Deep Learning**, and **MLOps (Machine Learning Operations)**.
+> A curated, first-principles knowledge vault, engineering portfolio, and teaching curriculum tracking **Artificial Intelligence**, **Deep Learning**, and **Production MLOps (Machine Learning Operations)**.
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-NithinPathikonda-181717?style=flat&logo=github)](https://github.com/NithinPathikonda)
 [![Roadmap Progress](https://img.shields.io/badge/Progress-In%20Progress-blue?style=flat)](#-learning-roadmap--progress)
@@ -19,7 +19,7 @@
 ## 🧭 Repository Structure
 
 ```tree
-ai-mlops-learning/
+ai-mlops-vault/
 ├── 01-foundations/              # Math, Linear Algebra, Statistics, Python & Data Stack
 ├── 02-machine-learning/         # Supervised, Unsupervised, Feature Engineering & Classical ML
 ├── 03-deep-learning/            # PyTorch, CNNs, RNNs, Attention & Transformers
